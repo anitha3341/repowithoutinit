@@ -1,7 +1,0 @@
-class simple{
-
-Public static void main {
-}
-
-}
-System.out.println"Hello World"
